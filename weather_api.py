@@ -3,7 +3,7 @@ import requests
 # pip install requests para fazer o request para a pagina do API.
 # we are using the requests module to get the data from the weather API server
 
-API_KEY = "b04b4c7bd603319dd70c11145cc4477f"
+API_KEY = ##############################
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
 city = input("Enter a city name: ")
